@@ -1,0 +1,13 @@
+@media (min-width: 992px) {
+  .facebook {
+    padding-right: 70px;
+  }
+
+  .linkedin {
+    padding-right: 70px;
+  }
+}
+
+.info {
+  background-color: #f1f3f5;
+}

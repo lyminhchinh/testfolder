@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .borderright {
+    border-right: 1px solid orangered;
+  }
+
+  .facebook {
+    padding-right: 30px;
+  }
+
+  .linkedin {
+    padding-right: 30px;
+  }
+}
